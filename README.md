@@ -13,7 +13,7 @@ This is a simple unit converter application created using Python and the Tkinter
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Tkinter library
 - CustomTkinter library (if used)
 
