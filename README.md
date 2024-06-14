@@ -19,7 +19,7 @@ This is a simple unit converter application created using Python and the Tkinter
 
 ## Installation
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/rominapy/PythonGUI.git
