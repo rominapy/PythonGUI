@@ -23,4 +23,6 @@ This is a simple unit converter application created using Python and the Tkinter
 
    ```bash
    git clone https://github.com/rominapy/PythonGUI.git
-   cd UnitConverter
+   pip install customtkinter
+   python3 main.py
+   
