@@ -22,5 +22,5 @@ This is a simple unit converter application created using Python and the Tkinter
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone <git@github.com:rominapy/PythonGUI.git>
    cd UnitConverter
